@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Canada Day"
-cover: "http://canada.pch.gc.ca/DAMAssetPub/DAM-PCH2-canada150/STAGING/images-images/c150-logo-red-nouvnew_1469624863855_eng.jpg"
+cover: "http://www7.mississauga.ca/hostsites/canada150/assets/img/Can150intro.jpg"
 date:   2017-07-01
 start_time: "11:00"
 end_time: "14:00"
