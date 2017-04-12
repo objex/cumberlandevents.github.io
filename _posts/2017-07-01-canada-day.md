@@ -16,25 +16,9 @@ organiser: "Ahmadiyya Muslim Jama'at"
 ---
 Canada 150 Celebrations In Cumberland Ontario
 
-Flag Hoisting
-- Community Leader speeches
-
-Food
-- BBQ Competition*
-- Complementary BBQ for all visitors
-- Corn roast*
-
-Market
-- Cumberland Farmer's Market*
-- Local Restaurant stalls*
-
-Entertainment
-- Bouncy Castle
-- Hina stall
-- Cotton Candy and Snow Flakes
-- Fire Truck*
-- Police Demo*
-
-Information
-- Cumberland Museum History Stall
-- Mosque Tour
+HIGHLIGHTS OF THE EVENT
+Flag hoisting and National Anthem
+Complementary BBQ
+Displays, educational/fun activities by various city departments including Police and Fire Services, tour to the Mosque
+Recreational activities for kids
+Stalls by various community and non-profit organizations
