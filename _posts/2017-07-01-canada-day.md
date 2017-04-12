@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Canada Day in Cumberland"
+title:  "Canada Day"
 cover: "http://canada.pch.gc.ca/DAMAssetPub/DAM-PCH2-canada150/STAGING/images-images/c150-logo-red-nouvnew_1469624863855_eng.jpg"
 date:   2017-07-01
 start_time: "11:00"
@@ -14,7 +14,7 @@ organiser: "Ahmadiyya Muslim Jama'at"
 
 
 ---
-Theme: Canada 150 Celebrations
+Canada 150 Celebrations In Cumberland Ontario
 
 Flag Hoisting
 - Community Leader speeches
