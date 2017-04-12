@@ -10,11 +10,31 @@ end_time: "14:00"
 
 #event organiser details
 
-organiser: "Jimmy Smith"
+organiser: "Ahmadiyya Muslim Jama'at"
 
 
 ---
+Theme: 150 Years celebrations
 
-Just a quick introduction into AWS.
+Flag Hoisting
+- Community Leader speeches
 
-Please come along if your interested. Pizza will be provided.
+Food
+- BBQ Competition*
+- Complementary BBQ for all visitors
+- Corn roast*
+
+Market
+- Cumberland Farmer's Market*
+- Local Restaurant stalls*
+
+Entertainment
+- Bouncy Castle
+- Hina stall
+- Cotton Candy and Snow Flakes
+- Fire Truck*
+- Police Demo*
+
+Information
+- Cumberland Museum History Stall
+- Mosque Tour
