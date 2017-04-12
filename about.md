@@ -1,5 +1,6 @@
 ---
 layout: page
+cover: 'cumberland.png'
 navigation_title: About
 title: About Cumberland Events
 permalink: /about/
