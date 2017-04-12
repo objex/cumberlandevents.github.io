@@ -14,7 +14,7 @@ organiser: "Ahmadiyya Muslim Jama'at"
 
 
 ---
-Theme: 150 Years celebrations
+Theme: Canada 150 Celebrations
 
 Flag Hoisting
 - Community Leader speeches
