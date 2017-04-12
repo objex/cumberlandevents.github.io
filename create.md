@@ -9,6 +9,7 @@ button: true
 
 Adding an event to your site is easy. Send an email to admin@objex.ca with following details:
 ---
+~~~~
 #leave this alone
 layout: post
 
@@ -32,6 +33,6 @@ end_time: "13:00"
 #event organiser details
 organiser: "Frank Smith"
 
-#Make sure you setup your Organiser details in the _data directory in the organisers.yml file
+~~~~
 
 ---
