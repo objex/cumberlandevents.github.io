@@ -22,3 +22,8 @@ HIGHLIGHTS OF THE EVENT
 - Displays, educational/fun activities by various city departments including Police and Fire Services, tour to the Mosque
 - Recreational activities for kids
 - Stalls by various community and non-profit organizations
+
+Co-Hosts:
+Cumberland Community Association
+Cumberland Farmer's Market
+Cumberland Lions Club
