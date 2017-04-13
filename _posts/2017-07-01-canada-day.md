@@ -24,7 +24,7 @@ HIGHLIGHTS OF THE EVENT
 - Stalls by various community and non-profit organizations
 
 Co-Hosts:
-[alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 Cumberland Community Association
 Cumberland Farmer's Market
 Cumberland Lions Club
