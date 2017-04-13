@@ -23,8 +23,8 @@ HIGHLIGHTS OF THE EVENT
 - Recreational activities for kids
 - Stalls by various community and non-profit organizations
 
-Co-Hosts:
-![Cumberland Community Association](https://github.com/objex/cumberlandevents.github.io/blob/master/cca-logo.png "Cumberland Community Association")
-Cumberland Community Association
-Cumberland Farmer's Market
-Cumberland Lions Club
+Co-Hosts:<br/>
+Cumberland Community Association <br/>
+Cumberland Community Association<br/>
+Cumberland Farmer's Market<br/>
+Cumberland Lions Club<br/>
