@@ -31,7 +31,7 @@ It would be an honour if you would join us on Saturday, July 1st at 11am at Bait
 We look forward to your presence on Canada Day!
 
 
-Register Online: https://www.eventbrite.ca/e/canada-150-celebrations-tickets-35153481008?aff=es2
+[Register Online:] (https://www.eventbrite.ca/e/canada-150-celebrations-tickets-35153481008?aff=es2)
 
 
 HIGHLIGHTS OF THE EVENT
