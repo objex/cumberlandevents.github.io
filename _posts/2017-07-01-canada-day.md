@@ -18,9 +18,8 @@ Canada 150 Celebrations In Cumberland Ontario - FREE BBQ
 
 In 2017, Canada will celebrate its 150th birthday. The Ahmadiyya Muslim Community, Cumberland Community Association, Cumberland Lions Club and Cumberland Farmers’ Market plan to mark this milestone together with a Canada 150 celebrations on July 1st, 2017. 
 
-Book Tickets Now (FREE): <br/>
-<a href="https://www.eventbrite.ca/e/canada-150-celebrations-free-bbq-tickets-35153481008?aff=ehomesaved">Book Ticket</a>
-
+<br/>
+<a href="https://www.eventbrite.ca/e/canada-150-celebrations-free-bbq-tickets-35153481008?aff=ehomesaved">Book Tickets Now (FREE)</a>
 
 HIGHLIGHTS OF THE EVENT
 - Flag hoisting and National Anthem
