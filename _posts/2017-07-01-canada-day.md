@@ -38,4 +38,11 @@ Co-Hosts:<br/>
 Sponsores:<br/>
 <a href="http://objex.ca">Objex, Inc.</a><br/>
 Clive Horne<br/>
-<a href="http://www.blackwalnutbakery.ca/">Black Walnut Bakery</a><br/>
+<a href="http://www.blackwalnutbakery.ca/">The Black Walnut Bakery</a><br/>
+<a href="#">Westrow Food</a><br/>
+<a href="#">Mobile Emissions Testing Inc.</a><br/>
+<a href="#">LKQ Canada Auto Parts</a><br/>
+<a href="#">Harmony Hyundai</a><br/>
+<a href="#">MP Francis Drouin</a><br/>
+Mazhar Choudhry
+
