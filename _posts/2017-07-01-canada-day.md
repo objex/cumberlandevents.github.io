@@ -31,11 +31,11 @@ HIGHLIGHTS OF THE EVENT
 - Stalls by various community and non-profit organizations
 
 Co-Hosts:<br/>
-Cumberland Community Association<br/>
-Cumberland Farmer's Market<br/>
-Cumberland Lions Club<br/>
+<a href="http://www.cumberlandvillage.ca/en">Cumberland Community Association</a><br/>
+<a href="http://cumberlandfarmersmarket.ca/">Cumberland Farmer's Market</a><br/>
+<a href="https://www.facebook.com/cumberlandlions/">Cumberland Lions Club</a><br/>
 
 Sponsores:<br/>
-Objex, Inc.<br/>
+<a href="objex.ca">Objex, Inc.</a><br/>
 Clive Horne<br/>
-Black Walnut Bakery<br/>
+<a href="http://www.blackwalnutbakery.ca/">Black Walnut Bakery</a><br/>
