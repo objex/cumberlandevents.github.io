@@ -36,6 +36,6 @@ Co-Hosts:<br/>
 <a href="https://www.facebook.com/cumberlandlions/">Cumberland Lions Club</a><br/>
 
 Sponsores:<br/>
-<a href="objex.ca">Objex, Inc.</a><br/>
+<a href="http://objex.ca">Objex, Inc.</a><br/>
 Clive Horne<br/>
 <a href="http://www.blackwalnutbakery.ca/">Black Walnut Bakery</a><br/>
