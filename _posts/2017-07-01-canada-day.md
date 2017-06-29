@@ -25,6 +25,7 @@ In 2017, Canada will celebrate its 150th birthday. The Ahmadiyya Muslim Communit
 HIGHLIGHTS OF THE EVENT
 - Flag hoisting and National Anthem
 - FREE BBQ and Drinks
+- Magic Show
 - Lemonade stall
 - Displays, educational/fun activities by various city departments Fire Services, tour to the Mosque
 - Recreational activities for kids
