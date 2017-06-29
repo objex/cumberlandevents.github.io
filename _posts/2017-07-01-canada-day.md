@@ -20,6 +20,7 @@ In 2017, Canada will celebrate its 150th birthday. The Ahmadiyya Muslim Communit
 
 <br/>
 <a href="https://www.eventbrite.ca/e/canada-150-celebrations-free-bbq-tickets-35153481008?aff=ehomesaved">Book Tickets Now (FREE)</a>
+<br/>
 
 HIGHLIGHTS OF THE EVENT
 - Flag hoisting and National Anthem
