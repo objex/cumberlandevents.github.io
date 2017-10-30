@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Islamic History Day"
+title:  "Islamic History Month Open Door"
 cover: "http://www.ihmcanada.com/wp-content/uploads/2015/06/ihmc-logo-MAIN-white-leaf-blk-txt.png"
 date:   2017-10-31
 start_time: "05:00"
