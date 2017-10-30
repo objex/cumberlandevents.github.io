@@ -17,19 +17,17 @@ organiser: "Ahmadiyya Muslim Jama'at"
 
 Muslims FOR REMEMBRANCE DAY 
 <br/>
-(Friday November 10th, 2017), Time - 1:30 pm (After Friday Prayer)
+(Friday November 10th, 2017), Time - 1:30pm to 2:00pm (30 minutes)
 <br/>
-
-text 
+For the 5th consecutive year, the Ahmadiyya Muslim Jama`at Canada will be rallying young and old across the country to raise funds for Canadian veterans and show its support for this great country. 
 <br/><br/>
 
 PROGRAM
 - Half-Mast:  The Canadian Flag (Bring Flag to Half mast) 
 - Opening Remarks: 
-- O Canada http://www.legion.ca/honour-remember/ceremony-music (Audio) 
-- Poem: In Flanders Fields” https://youtu.be/cKoJvHcMLfc 
-- Last Post:  http://www.legion.ca/honour-remember/ceremony-music 
+- O Canada  
+- Poem: In Flanders Fields
+- Last Post 
 - The Silence Two Minutes Duration 
 - Full Mast: Bring Canadian Flag to Full Mast. 
-
 
