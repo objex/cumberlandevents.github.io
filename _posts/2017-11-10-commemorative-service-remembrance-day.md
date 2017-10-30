@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Commemorative Service - Remembrance Day"
-cover: "http://www.guy-sports.com/fun_pictures/poppy_note.jpg"
+cover: "https://i.cbc.ca/1.3312794.1478532236!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/poppies.JPG"
 date:   2017-11-10
 start_time: "1:30"
 end_time: "2:00"
