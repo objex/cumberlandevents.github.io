@@ -23,4 +23,8 @@ Islamic History Month Canada - Islamic Heritage Month Ontario is an acknowledgem
 Open Door at Baitun Naseer Mosque Cumberland. October 31st from 5-8pm
 <br/>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
