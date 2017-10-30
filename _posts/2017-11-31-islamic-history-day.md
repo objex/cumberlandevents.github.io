@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Canada Day"
+title:  "Islamic History Day"
 cover: "http://www.ihmcanada.com/wp-content/uploads/2015/06/ihmc-logo-MAIN-white-leaf-blk-txt.png"
 date:   2017-11-31
 start_time: "05:00"
