@@ -12,14 +12,12 @@ end_time: "08:00"
 
 organiser: "Ahmadiyya Muslim Jama'at"
 
-
 ---
 
-Islamic History Month Canada - Islamic Heritage Month Ontario
 <br/>
 <img src="http://www.ihmcanada.com/wp-content/uploads/2015/06/ihmc-logo-MAIN-white-leaf-blk-txt.png" width="200" height="100">
 <br/>
-An acknowledgement to those who have contributed to the betterment of humanity throughout the ages, and an overall celebration of Islamic history summarizes Islamic History Month Canada [IHMC]. 
+Islamic History Month Canada - Islamic Heritage Month Ontario is an acknowledgement to those who have contributed to the betterment of humanity throughout the ages, and an overall celebration of Islamic history summarizes Islamic History Month Canada [IHMC]. 
 <br/>
 Open Door at Baitun Naseer Mosque Cumberland. October 31st from 5-8pm
 <br/>
