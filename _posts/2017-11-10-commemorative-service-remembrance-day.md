@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Commemorative Service - Remembrance Day"
-cover: "http://www7.mississauga.ca/hostsites/canada150/assets/img/Can150intro.jpg"
+cover: "http://www.guy-sports.com/fun_pictures/poppy_note.jpg"
 date:   2017-11-10
 start_time: "1:30"
 end_time: "2:00"
