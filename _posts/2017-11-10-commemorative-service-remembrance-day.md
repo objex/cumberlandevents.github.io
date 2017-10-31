@@ -17,7 +17,7 @@ organiser: "Ahmadiyya Muslim Jama'at"
 
 Muslims FOR REMEMBRANCE DAY 
 <br/>
-(Friday November 10th, 2017), Time - 1:30pm to 2:00pm (15 minutes)
+(Friday November 10th, 2017), Time - 1:30pm to 1:45pm (15 minutes)
 <br/>
 For the 5th consecutive year, the Ahmadiyya Muslim Jama`at Canada will be rallying young and old across the country to raise funds for Canadian veterans and show its support for this great country. 
 <br/><br/>
