@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Canada Day"
 cover: "http://www7.mississauga.ca/hostsites/canada150/assets/img/Can150intro.jpg"
-date:   2017-07-01
+date:   2018-07-01
 start_time: "11:00"
 end_time: "14:00"
 
